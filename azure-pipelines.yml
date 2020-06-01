@@ -10,10 +10,6 @@ variables:
   buildConfiguration: 'Release'
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
   dotnetSdkVersion: '3.1.300'
-  SonarProjectKey: DimitrYo_mslearn-tailspin-spacegame-web
-  SonarProjectName: mara_mslearn-tailspin-spacegame-web
-  SonarOrganization: dimitryo
-
 
 steps:
 - task: UseDotNet@2
